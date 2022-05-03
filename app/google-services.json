@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265849178252",
+    "project_id": "ganapp-4b926",
+    "storage_bucket": "ganapp-4b926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265849178252:android:8a61a85c0079193b5d13a9",
+        "android_client_info": {
+          "package_name": "com.example.ganapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265849178252-485dlnafkifv4172niuhbi18lr8s1f7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIJOqLSDwmtwl7QYU3cYAYgtUPY093ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265849178252-485dlnafkifv4172niuhbi18lr8s1f7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
