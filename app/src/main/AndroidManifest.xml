@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.GanApp">
         <activity
+            android:name=".Informacion"
+            android:exported="true" />
+        <activity
+            android:name=".Gastos"
+            android:exported="true" />
+        <activity
+            android:name=".Gestacion"
+            android:exported="true" />
+        <activity
+            android:name=".Animales"
+            android:exported="true" />
+        <activity
             android:name=".RegistrarseActivity"
             android:exported="true" />
         <activity
