@@ -4,27 +4,21 @@
 
     <item android:id="@+id/item_animales"
         android:title="Animales"
-        android:icon="@drawable/ic_animales1"
-        app:showAsAction="always"
-        />
+        android:icon="@drawable/ic_animales1"/>
 
     <item android:id="@+id/item_gestacion"
         android:title="Gestación"
-        android:icon="@drawable/ic_baseline_child_friendly_24"
-        app:showAsAction="always"/>
+        android:icon="@drawable/ic_baseline_child_friendly_24"/>
 
     <item android:id="@+id/item_home"
         android:title="Home"
-        android:icon="@drawable/ic_home"
-        app:showAsAction="always"/>
+        android:icon="@drawable/ic_home"/>
 
     <item android:id="@+id/item_gastos"
         android:title="Gastos"
-        android:icon="@drawable/ic_baseline_monetization_on_24"
-        app:showAsAction="always"/>
+        android:icon="@drawable/ic_baseline_monetization_on_24"/>
 
     <item android:id="@+id/item_info"
         android:title="Info"
-        android:icon="@drawable/ic_info"
-        app:showAsAction="always"/>
+        android:icon="@drawable/ic_info"/>
 </menu>
