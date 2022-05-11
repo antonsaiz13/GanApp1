@@ -3,4 +3,22 @@
     <string name="prefs_file">prefs_file</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_animal1">Nombre</string>
+    <string name="num_identificacion">Nº Identificacion</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento</string>
+    <string name="nombre_padre">Padre</string>
+    <string name="nombre_madre">Madre</string>
+
+    <string-array name="sexo">
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+
+    <string-array name="tipos_gestacion">
+        <item>Cubrimiento</item>
+        <item>Parto</item>
+        <item>Celo</item>
+    </string-array>
+
+
 </resources>
